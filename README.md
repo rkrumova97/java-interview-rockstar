@@ -1,2 +1,2 @@
 # java-interview-rockstar
-Regular java dev inerview preparation
+Regular java dev interview preparation
